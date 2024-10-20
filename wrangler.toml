@@ -83,3 +83,9 @@ pages_build_output_dir = ".svelte-kit/cloudflare"
 # [[env.production.kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
 # id = "<PRODUCTION_NAMESPACE_ID>"
+
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hiddenreviews"
+database_id = "1a73a6c2-5144-40c5-8351-66257b52c0ef"
